@@ -1,6 +1,6 @@
 # reimplement-residual-attention-network
 
-This is a reimplementation of paper <em>Residual Attention Network for Image Classification<em>, https://arxiv.org/abs/1704.06904
+This is a reimplementation of paper <em>Residual Attention Network for Image Classification</em>, https://arxiv.org/abs/1704.06904
 
 In recent years, nature of extracted attention has been studied in previous work and formulating attention drift is found to enhance image classification. Another advanced technology is the proposal of 'Deep Residual Network', which solved problems in deep neural networks. Based on these two techniques, the authors of this paper proposed a combination of attention module and residual network and this Attention Residual Network achieved great performance in image classification tasks.
 
